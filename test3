@@ -1,0 +1,7 @@
+git add
+git init
+git remote -v
+git add origin mater
+git push origin master
+:wq
+
